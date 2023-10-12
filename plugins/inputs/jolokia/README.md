@@ -1,6 +1,6 @@
 # Jolokia Input Plugin
 
-**Deprecated in version 1.5: Please use the [jolokia2][] plugin**
+**Deprecated in version 1.5: Please use the [jolokia2](https://github.com/influxdata/telegraf/blob/master/plugins/inputs/jolokia2_agent/README.md#jolokia2-agent-input-plugin) plugin**
 
 ## Global configuration options <!-- @/docs/includes/plugin_config.md -->
 
